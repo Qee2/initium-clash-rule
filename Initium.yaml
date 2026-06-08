@@ -1,5 +1,4 @@
 payload:
-  # 内容：端传媒（The Initium）
   # 数量：3条
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN,cf-bookmarks-app-prod.initium.workers.dev
